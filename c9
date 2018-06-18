@@ -1,0 +1,7 @@
+h4 {
+text-align: center;
+background-color: rgba(45, 45, 45, 0.1);
+padding: 10px;
+}
+
+//RGBA values allow you to not only set the color using RGB, but also the Alpha (a), or the opacity, ranging from 1 (opaque) to 0 (transparent)//
