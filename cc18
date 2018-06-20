@@ -1,0 +1,12 @@
+<style>
+  a {
+    color: #000;
+  }
+  a:hover {
+    color: blue;
+  }
+  
+  
+</style>
+
+//:hover lets you adjust how the element is seen when the user hovers over it with the cursor//
