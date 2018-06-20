@@ -1,0 +1,8 @@
+#thumbnail {
+box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
+}
+
+//The box-shadow property of an element lets you put a shadow effect around the border of the element to give a 3-D effect//
+//It takes values of offset-x, offset-y, [blur-radius, spread-radius], and color value, in that order, with the 3rd 2 optional//
+//Blur radius determines how far the blur effect on the shadow goes from the element//
+//Spread radius determines how thick the shadow is//
