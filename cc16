@@ -1,0 +1,7 @@
+<style>
+  p {
+    font-size: 16px;
+  }
+</style>
+
+//Simply demonstrates that font-size can be applied to any element containing text//
