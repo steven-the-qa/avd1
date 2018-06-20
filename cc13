@@ -1,0 +1,6 @@
+h4 {
+text-transform: uppercase;
+}
+
+//Makes the text uppercase//
+//Other options include: initial (default value), inherit (parent element's value), lowercase, capitalize, and none (the default is the original text//
