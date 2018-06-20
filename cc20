@@ -1,0 +1,10 @@
+<style>
+  h2 {
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+  }
+</style>
+
+//It's important to remember that your element's position moves AWAY from the "bottom" or other offset keywords//
+//In this example, the object moved 15px right and 10px up//
