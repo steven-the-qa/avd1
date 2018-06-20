@@ -1,0 +1,10 @@
+<style>
+  h2 {
+    position: relative;
+    top: 15px;
+  }
+</style>
+
+//Relative positioning is useful for moving an element other than where it'd be put based on normal work flow//
+//Surrounding elements are positioned according to the default position of the element without relative positioning//
+//Keep your HTML markup in good organized order regardless of the position of elements so screen readers can understand//
