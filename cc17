@@ -1,0 +1,8 @@
+<style>
+  p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+</style>
+
+//Line-height changes the amount of space between lines, or the amount of space each line of text gets//
