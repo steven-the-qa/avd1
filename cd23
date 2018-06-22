@@ -29,3 +29,4 @@
 </body>
 
 //The float property pushes an element to the left or to the right of the containing parent element//
+//The width property is often used with it to declare how much space the floated element requires//
