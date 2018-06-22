@@ -1,0 +1,11 @@
+<style>
+  div {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+  }
+</style>
+
+//Setting the margin to auto centers block elements on the page//
+//Images are inline elements but setting their display property to "block" lets margin-auto work on them too//
