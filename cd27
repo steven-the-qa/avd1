@@ -1,0 +1,15 @@
+  .orange {
+    background-color: #FF7D00;
+  }
+  
+  .cyan {
+    background-color: #00FFFF;
+  }
+  
+  .raspberry {
+    background-color: #FF007D;
+  }
+  
+  //Tertiary colors (ex: orange) are formed by combining a primary color with one of its secondary color neighbors on the color wheel//
+  //The split-complementary color scheme is a subtler version of the contrast offered by complementary colors side by side//
+  //Take one base color, then find the 2 colors adjacent on the color wheel to its complement//
