@@ -1,0 +1,8 @@
+.blue {
+    background-color: #0000FF;
+  }
+  .yellow {
+    background-color: #FFFF00;
+  }
+  
+  //Complementary colors like blue and yellow placed side by side can make these colors seem more vibrant and create contrast//
