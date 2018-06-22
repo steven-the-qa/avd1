@@ -1,0 +1,14 @@
+ .first {
+    background-color: red;
+    position: absolute;
+    z-index: 2;
+  }
+  .second {
+    background-color: blue;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    z-index: 1;
+  }
+  
+  //The z-index property can be used to order layers of elements, where 1 is the bottom of the stack and the highest number is the top//
