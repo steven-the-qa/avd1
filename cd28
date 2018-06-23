@@ -1,0 +1,25 @@
+<style>
+  body {
+    background-color: white;
+  }
+  header {
+    background-color: #09A7A1;
+    color: white;
+    padding: 0.25em;
+  }
+  h2 {
+    color: #09A7A1;
+  }  
+  button {
+    background-color: #FF790E;
+  }
+  footer {
+    background-color: #09A7A1;
+    color: white;
+    padding: 0.5em;
+  }
+</style>
+
+//Using complementary colors on a page in too even a split is gonna be too intense to look at//
+//In practice there is one dominant color (#09A7A1) and the other color is used to highlight important stuff (#FF790E)//
+//This implementation has teal and orange//
