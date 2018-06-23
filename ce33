@@ -1,0 +1,8 @@
+<style>
+  body {
+    background: url(https://i.imgur.com/MJAkxbh.png);
+  }
+</style>
+
+//The url() function can be used to bring in an image and make it your background//
+//The key is subtlety and balance, though, because you don't want the image background to distract from the rest of the page//
