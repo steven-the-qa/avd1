@@ -1,0 +1,10 @@
+ div{ 
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+  }
+  
+  //Linear-gradient lets you incorporate a blend of colors across an angled gradient (35deg), starting with the first color and ending with the last//
+  //The colors blend together where they transition and it creates a different visual experience//
