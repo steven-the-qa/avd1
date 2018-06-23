@@ -1,0 +1,8 @@
+  #bottom {
+    background-color: blue;
+    transform: skewX(24deg);
+  }
+  
+  //SkewX() is another function you can run in the transform property//
+  //It skews the element along the x-axis by a specified degree//
+  //This example skews a rectangle shape into a parallelogram shape tilted at 24 degrees on the left and right sides//
