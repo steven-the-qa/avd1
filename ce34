@@ -1,0 +1,7 @@
+#ball2 {
+    left: 65%;
+    transform: scale(1.5);
+  }
+  
+  //The transform property has a scale function that increases relative size (scales) an object//
+  //In this example, the object is 1.5 times its original size//
