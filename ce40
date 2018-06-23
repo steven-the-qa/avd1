@@ -1,0 +1,19 @@
+#rect {
+    animation-name: rainbow;
+    animation-duration: 4s;
+  }
+  @keyframes rainbow {
+    0% {
+      background-color: blue;
+    }
+    50% {
+      background-color: green;
+    }
+    100% {
+      background-color: yellow;
+    }
+  }
+  
+  //There are 8 animation properties in total//
+  //Animation-name is used by the corresponding @keyframes rule to link the rule to the animation//
+  //Animation-duration decides how long the whole thing lasts//
