@@ -1,0 +1,7 @@
+#top {
+    background-color: red;
+    transform: skewY(-10deg);
+  }
+  
+  //SkewY() does the same thing as SkewX() but along the vertical axis//
+  //This rectangle's top and bottom sides have become tilted to form an oblong parallelogram shape//
