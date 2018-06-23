@@ -1,0 +1,16 @@
+  
+  .green {
+    background-color: hsl(120,100%,50%);
+  }
+  
+  .cyan {
+    background-color: hsl(180,100%,50%);
+  }
+  
+  .blue {
+    background-color: hsl(240,100%,50%);
+  }
+  
+  //CSS3 introduced the hsl() property//
+  //hsl() is an alternate way to rgb() to specify colors//
+  //Whereas rgb() uses hex codes, hsl() uses angular position on a color wheel (0 - 360), saturation, and lightness//
