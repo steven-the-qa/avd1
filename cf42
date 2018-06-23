@@ -1,0 +1,10 @@
+  button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+    /* add your code below this line */
+    animation-fill-mode: forwards;
+    /* add your code above this line */
+  }
+  
+  //Using animation-fill-mode on "forwards" leaves the element the way it looks when the animation is finished//
+  //In this case, the button stays highlighted instead of reverting back to the original darker color//
