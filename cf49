@@ -1,0 +1,12 @@
+  #ball1 { 
+    left:27%;
+    animation-timing-function: linear;
+  }
+  #ball2 { 
+    left:56%;
+    animation-timing-function: ease-out;
+  }
+  
+  //The animation-timing-function property sets the acceleration/deceleration rates of the animation in the beginning and towards the end//
+  //Ease is the default//
+  //Other options are ease-in, ease-out, and linear//
