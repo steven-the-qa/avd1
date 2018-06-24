@@ -1,0 +1,7 @@
+@keyframes fade {
+    50% {
+      left: 60%;
+      opacity: .1;
+    }
+    
+    //Creates a fade effect as the element moves to the right//
