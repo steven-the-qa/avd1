@@ -1,0 +1,8 @@
+#green {
+    background: green;
+    left: 75%;
+    animation-timing-function: cubic-bezier(.311,.441,.444,1.649);
+  }
+  
+  //This Bezier curve mimics a juggling motion//
+  //It needed to be customized to create a new rate of motion beyond what the keywords could do//
