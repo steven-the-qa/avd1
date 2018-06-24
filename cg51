@@ -1,0 +1,12 @@
+#red {
+    background: red;
+    left: 27%;
+    animation-timing-function: cubic-bezier(0,0,.58,1);
+  }
+  #blue {
+    background: blue;
+    left: 56%;
+    animation-timing-function: ease-out;
+  }
+  
+  //This curve is equivalent to the ease-out keyword//
