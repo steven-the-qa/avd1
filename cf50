@@ -1,0 +1,15 @@
+ #ball1 { 
+    left: 27%;
+    animation-timing-function: cubic-bezier(.25,.25,.75,.75);
+  }
+  
+  //This Bezier curve is the equivalent of the "linear" keyword//
+  /*Bezier curves live in a 1-by-1 coordinate grid, and there are 4 points:
+  -p0 (0,0)
+  -p1 (?,?)
+  -p2 (?,?)
+  -p3 (1,1)
+  
+  You have to set the middle 2 points to determine the timing of your animation*/
+  
+  //This method gives you more precise control over the rate than the preset keywords//
