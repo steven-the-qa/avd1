@@ -1,3 +1,4 @@
 <h4><del>Google</del>Alphabet</h4>
-
+<h4><s>Google</s>Alphabet</h4>
 //Demonstration of using strike-through styling to declare text no longer valid//
+//You can use either "del" or "s" for a strike-through effect
